@@ -1,0 +1,24 @@
+.wpcf7 form.wpcf7-form label, form.wpcf7-form textarea, form.wpcf7-form input[type="text"], form.wpcf7-form input[type="email"] {
+width: 100%;
+}
+div.wpcf7 {
+margin-top: 20px;
+}
+.required:after{
+content:'*';
+color:#f00;
+} .social-menu-widget {
+margin: 0 0 0 0;
+}
+.social-menu-widget a[href*="github.com"]::before {
+content: '\f09b';
+} .services a.more-button {
+display: none!important;
+} .container {
+width: 70%;
+}
+.panel-grid {
+max-width: 1400px;
+} .blogp{
+margin-bottom: 25px;
+}
