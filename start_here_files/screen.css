@@ -739,10 +739,10 @@ ol.toc-list {
     display: block;
     padding: 10px 0;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 1.5em;
     line-height: 1.2em;
-    letter-spacing: -.02em
-}
+    letter-spacing: -.02em;
+  }
 
 .gh-head-logo img {
     max-height: 26px
